@@ -1,0 +1,5 @@
+openpyxl
+pyyaml
+python-docx
+pillow
+docx2pdf  # 任意: Word があれば PDF も自動出力

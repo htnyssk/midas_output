@@ -1,0 +1,27 @@
+# 入力データ（EMF は合計 1.5GB 超。GitHub に載せない。別途コピーする）
+images/
+
+# 生成物
+PNG/
+list.xlsx
+list_backup/
+output.docx
+output.pdf
+process.log
+
+# ビルド成果物
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# 旧設定ファイル（config.yaml に置き換え済み・コードからは未使用）
+config.json
+
+# Excel の一時ファイル
+~$*
